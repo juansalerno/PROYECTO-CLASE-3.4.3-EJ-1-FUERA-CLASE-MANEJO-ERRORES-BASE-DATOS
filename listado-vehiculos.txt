@@ -1,0 +1,9 @@
+2,  honda,  basic,  2003,  gris,  A341GT,  72000
+3,  MB,  R400,  2010,  blanco,  AAC200,  740000
+1,  Fiat,  Palio,  2006,  Rojo,  FKE649,  85000
+1,  Toyota,  Corolla,  2010,  gris,  ADE579,  290000
+2,  Zanella,  Fire,  2018,  Verde,  AA204HD,  25000
+3,  BMW,  Super,  2018,  Negro,  AD436YG,  450000
+1,  Toyota,  Etios,  2014,  Negro,  NJM435,  270000
+2,  gilera,  d4000,  2009,  roja,  fd456hg,  45000
+3,  MB,  AK210,  2011,  NEGRO,  AC478OK,  670000
